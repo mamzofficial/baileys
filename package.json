@@ -93,11 +93,11 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "audio-decode": "^2.1.3",
-    "jimp": "^1.6.1",
-    "link-preview-js": "^3.0.0",
+    "audio-decode": "*",
+    "jimp": "*",
+    "link-preview-js": "*",
     "sharp": "*",
-    "fluent-ffmpeg": "^2.1.2"
+    "fluent-ffmpeg": "*"
   },
   "resolutions": {
     "ajv@npm:^6.12.4": "^6.14.0",
