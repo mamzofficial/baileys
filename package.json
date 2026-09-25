@@ -1,10 +1,10 @@
 {
-  "name": "@mamzofficial/baileys",
+  "name": "@mamzhandsome/baileys",
   "type": "module",
   "version": "6.1.7",
-  "description": "A WebSockets library for interacting with WhatsApp Web — Mamz fork of Baileys",
+  "description": "A WebSockets library for interacting with WhatsApp Web — Mamzhandsome fork of Baileys",
   "keywords": [
-    "mamzofficial",
+    "mamzhandsome",
     "baileys",
     "whatsapp",
     "whatsapp-api",
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/mamzofficial/baileys.git"
   },
   "license": "MIT",
-  "author": "Mamz Official Store",
+  "author": "Mamzhandsome",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -150,6 +150,6 @@
     "url": "https://github.com/mamzofficial/baileys/issues"
   },
   "contributors": [
-    "Mamz Offc Store"
+    "Mamzhandsome"
   ]
 }
